@@ -15,7 +15,8 @@ public class AgileP2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("First message");
+        System.out.println("First branch");
     }
     
 }
